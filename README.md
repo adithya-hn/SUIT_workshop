@@ -18,7 +18,7 @@ Notebook files for hands-on training of SUIT data analysis.\
 
 ```shell
 cd Downloads
-git clone https://github.com/janmejoysarkar/HBSCE_workshop
+git clone https://github.com/adithya-hn/SUIT_workshop
 ```
 Open the `*.ipynb` file in Jupyter notebook, or VSCode.
 
